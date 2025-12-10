@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Henrique Schuh</h1>
 <p align="center">
-  🎓 High School Student • 💻 Passionate about Technology • 🌐 Based in Sorriso - MT, Brazil
+  🎓 Student • 💻 Passionate about Technology • 🌐 Based in Sorriso - MT, Brazil
 </p>
 
 <p align="center">
@@ -17,41 +17,12 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a technology enthusiast with practical experience in **IT support**, **virtualization**, **Linux**, and **computer networks**.  
-Currently studying and working as a **Tech Assistant** at TAO Engenharia.  
-
-🔧 Tools I work with include **Proxmox**, **Docker**, and **SMB Servers**.  
-📚 I’m constantly learning through online courses and hands-on practice.
-
----
 
 ## 🛠️ Skills & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff&style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=flat-square)
-
----
-
-## 📜 Certifications
-
-- **Cisco Networking Academy**
-  - Computer Hardware Basics
-  - Operating Systems Basics
-  - Network Technician *(in progress)*
-
-- **Alura**
-  - HTML and CSS: development environment and file structure
-
-- **Udemy**
-  - Power BI Advanced *(in progress)*
-  - Python 3 Advanced *(in progress)*
 
 ---
 
@@ -72,4 +43,4 @@ Currently studying and working as a **Tech Assistant** at TAO Engenharia.
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to connect, collaborate, or invite me to cool tech projects!*
+⭐ *Thanks for visiting my profile!
